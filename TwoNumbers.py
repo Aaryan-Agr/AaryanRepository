@@ -1,15 +1,15 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         '''
-		Descrip[tion:
-		This functions finds two unique index numbers that when added up gives the value the same as target.
+	Description:
+	This functions finds two unique index numbers that when added up gives the value the same as target.
 		
-		Parameters:
-		Nums - List of int
-		target - int
+	Parameters:
+	Nums - List of int
+	target - int
 
-		Returns:
-		arr - List of all possible indices that match the target (Stored as pairs)
+	Returns:
+	arr - List of all possible indices that match the target (Stored as pairs)
  
 		
         '''
